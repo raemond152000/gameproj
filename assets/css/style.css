@@ -1,0 +1,30 @@
+
+
+#img1, #img3 {
+	height: 400px;
+	width: 400px;
+}
+
+#health {
+	margin-left: 850px;
+}
+
+ #hidden {
+ 	display: none;
+ 	margin-top: 200px;
+ 	color:pink;
+ 	font-family: 'Bungee', cursive;
+ }
+ #hidden2 {
+ 	display: none;
+ 	margin-top: 200px;
+ 	color:pink;
+ 	font-family: 'Bungee', cursive;
+
+ }
+
+ body{
+ 	background-image: url(../images/fightb.gif);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ }
